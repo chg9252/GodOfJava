@@ -1,4 +1,4 @@
-package c.inheritance;
+package act10;
 
 public class Parent {
     public Parent() {
